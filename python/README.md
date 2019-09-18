@@ -1,7 +1,7 @@
 
 Requirements
 ---------------
-* Python 2.7 or 3.x
+* Python 2.7 or 3.x 
 * Python 'requests' library (http://docs.python-requests.org/en/latest/)
 
 Running the samples
