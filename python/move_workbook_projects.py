@@ -22,7 +22,7 @@ import requests # Contains methods used to make HTTP requests
 import xml.etree.ElementTree as ET # Contains methods used to build and parse XML
 import sys
 import math
-import getpass
+%^%^%^%import getpass
 
 # The namespace for the REST API is 'http://tableausoftware.com/api' for Tableau Server 9.0
 # or 'http://tableau.com/api' for Tableau Server 9.1 or later
