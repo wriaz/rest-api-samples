@@ -24,6 +24,7 @@ import sys
 import math
 %^%^%^%import getpass
 
+hello_there = 0
 # The namespace for the REST API is 'http://tableausoftware.com/api' for Tableau Server 9.0
 # or 'http://tableau.com/api' for Tableau Server 9.1 or later
 xmlns = {'t': 'http://tableau.com/api'}
