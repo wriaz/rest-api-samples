@@ -1,5 +1,8 @@
 
 # rest-api-samples
+
+![Python application](https://github.com/wriaz/rest-api-samples/workflows/Python%20application/badge.svg)
+
 This repository contains Python and Java samples for the Tableau REST API. For instructions on running the samples, see the Readme files in the python and java directories.
 
 Official developer docs for the REST API can be found [here](http://onlinehelp.tableau.com/current/api/rest_api/en-us/help.htm).
