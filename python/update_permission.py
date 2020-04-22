@@ -45,7 +45,7 @@ permissions = {"Read", "Write", "Filter", "AddComment", "ViewComments", "ShareVi
 
 # Possible modes for to set the permissions
 modes = {"Allow", "Deny"}
-
+waqas = {"Yes", "No"}
 # If using python version 3.x, 'raw_input()' is changed to 'input()'
 if sys.version[0] == '3': raw_input=input
 
